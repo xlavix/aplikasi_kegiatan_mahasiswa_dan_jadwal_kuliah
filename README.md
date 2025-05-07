@@ -23,14 +23,6 @@ Muhamad Farhan - 4522210057
 
 ## Screenshots Halaman Dark Theme
 
-### Halaman Home 
-<img src="screenshots/Home Dark Theme.png" width="300">
-
-### Halaman Jadwal 
-<img src="screenshots/Jadwal Dark Theme.png" width="300">
-
-### Halaman Akun 
-<img src="screenshots/Akun Dark Theme.png" width="300">
 
 ## Cara menjalankan aplikasi di Android Studio
 Pastikan kamu sudah menginstall dependensi terlebih dahulu:
