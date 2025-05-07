@@ -1,16 +1,46 @@
-# uts
+# Aplikasi Flutter 3 Halaman - Ujian Tengah Semester
 
-Aplikasi Jadwal Kuliah dan Kegiatan Mahasiswa
+Aplikasi ini merupakan aplikasi flutter sederhana yang terdiri dari 3 halaman, yaitu:
+- Halaman Home yang menampilkan kegiatan mahasiswa.
+- Halaman Jadwal yang menampilkan jadwal kuliah mahasiswa.
+- Halaman Akun yang menampilkan profile mahasiswa
 
-## Getting Started
+Aplikasi ini juga memiliki ciri khas tersendiri yaitu fitur menyembunyikan email
 
-This project is a starting point for a Flutter application.
+## Nama
+Muhamad Farhan - 4522210057
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots Halaman Light Theme
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Halaman Home 
+<img src="screenshots/Home Light Theme.png" width="300">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Halaman Jadwal 
+<img src="screenshots/Jadwal Light Theme.png" width="300">
+
+### Halaman Akun 
+<img src="screenshots/Akun Light Theme.png" width="300">
+
+## Screenshots Halaman Dark Theme
+
+### Halaman Home 
+<img src="screenshots/Home Dark Theme.png" width="300">
+
+### Halaman Jadwal 
+<img src="screenshots/Jadwal Light Theme.png" width="300">
+
+### Halaman Akun 
+<img src="screenshots/Akun Light Theme.png" width="300">
+
+## Cara menjalankan aplikasi di Android Studio
+Pastikan kamu sudah menginstall dependensi terlebih dahulu:
+
+```bash
+flutter pub get
+```
+
+Jalankan aplikasi:
+
+```bash
+flutter run
+```
