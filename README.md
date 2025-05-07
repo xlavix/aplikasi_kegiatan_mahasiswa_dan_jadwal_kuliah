@@ -24,7 +24,7 @@ Muhamad Farhan - 4522210057
 ## Screenshots Halaman Dark Theme (Ipad)
 
 ### Halaman Home 
-<img src="screenshots/Home Dark Theme.png" width="300">
+<img src="screenshots/Home Dark Theme Ipad.png" width="300">
 
 ### Halaman Jadwal 
 <img src="screenshots/Jadwal Dark Theme.png" width="300">
